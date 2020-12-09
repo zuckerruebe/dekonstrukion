@@ -2,3 +2,5 @@ sympy
 numpy
 matplotlib
 jupyterlab
+pip-tools
+
